@@ -1,0 +1,15 @@
+{
+  "name": "hackerrank_automation-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "Hk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "puppeteer": "^15.3.0"
+  }
+}
